@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\WPF\\Demo-WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1F0AA4-27C0-40E5-936B-13060F0CD1DA}|Demo-WPF.csproj|d:\\university\\sem5\\prn212\\code\\wpf\\demo-wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1F0AA4-27C0-40E5-936B-13060F0CD1DA}|Demo-WPF.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1F0AA4-27C0-40E5-936B-13060F0CD1DA}|Demo-WPF.csproj|d:\\university\\sem5\\prn212\\code\\wpf\\demo-wpf\\wrappanelpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1F0AA4-27C0-40E5-936B-13060F0CD1DA}|Demo-WPF.csproj|solutionrelative:wrappanelpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1F0AA4-27C0-40E5-936B-13060F0CD1DA}|Demo-WPF.csproj|d:\\university\\sem5\\prn212\\code\\wpf\\demo-wpf\\dockpanelpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1F0AA4-27C0-40E5-936B-13060F0CD1DA}|Demo-WPF.csproj|solutionrelative:dockpanelpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\WPF\\Demo-WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\WPF\\Demo-WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwCgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:36:33.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WrapPanelPage.xaml.cs",
+              "DocumentMoniker": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\WPF\\Demo-WPF\\WrapPanelPage.xaml.cs",
+              "RelativeDocumentMoniker": "WrapPanelPage.xaml.cs",
+              "ToolTip": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\WPF\\Demo-WPF\\WrapPanelPage.xaml.cs",
+              "RelativeToolTip": "WrapPanelPage.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:36:26.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DockPanelPage.xaml.cs",
+              "DocumentMoniker": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\WPF\\Demo-WPF\\DockPanelPage.xaml.cs",
+              "RelativeDocumentMoniker": "DockPanelPage.xaml.cs",
+              "ToolTip": "D:\\UNIVERSITY\\Sem5\\PRN212\\CODE\\WPF\\Demo-WPF\\DockPanelPage.xaml.cs",
+              "RelativeToolTip": "DockPanelPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:35:15.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
